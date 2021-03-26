@@ -180,7 +180,10 @@ width: 2.8rem;
 }
 
 /*  MAIN  */
-
+.main .title,
+.main .text{
+margin-bottom:1rem;
+}
 .main .column-1 {
 padding:2rem 0;
 }
