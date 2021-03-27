@@ -403,7 +403,7 @@ padding:5rem 1rem 7rem 1rem;
 }
 
 .main .column-1 {
-padding:2rem 4rem 2rem 0rem;
+padding:2rem 4rem 2rem 1rem;
 }
 .main .column-1 .title ,
 .main .column-1 .text{
@@ -448,7 +448,7 @@ padding:4rem 0;
 }
 
 .features-2  .column-1 {
-padding:2rem 4rem 2rem 0rem;
+padding:2rem 4rem 2rem 1rem;
 }
 .features-2  .column-1 .title {
 margin-bottom:2rem;
