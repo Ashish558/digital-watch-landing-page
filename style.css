@@ -468,10 +468,10 @@ align-items:center;
 }
 
 .home-page  .rect {
-bottom:40%;
-left:40%;
+bottom:60%;
+left:60%;
 display:block;
-transform:scaleX(3) scaleY(2);
+transform:scaleX(2) scaleY(2);
 }
 
 .main .title,
