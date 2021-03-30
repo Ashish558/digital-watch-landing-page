@@ -456,7 +456,28 @@ margin-bottom:2rem;
 .main .img-container{
 padding:0;
 }
+}
 
 
+@media screen and (min-width: 992px){
+.main{
+ min-height:90vh;
+display:flex;
+justify-content:center;
+align-items:center;
+}
+.bg-ig{
+transform:scale(3.5) translateY(-10%)
+}
+.main .title,
+.main .text{
+margin-bottom:2rem;
+}
+
+.featres {
+padding-top:9rem;
+padding-bottom:9rem;
+
+}
 
 }
