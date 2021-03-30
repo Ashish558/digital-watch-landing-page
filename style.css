@@ -471,7 +471,7 @@ align-items:center;
 bottom:60%;
 left:50%;
 display:block;
-transform:scaleX(2) scaleY(2);
+transform:scaleX(2.4) scaleY(2);
 }
 
 .main .title,
