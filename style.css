@@ -466,9 +466,14 @@ display:flex;
 justify-content:center;
 align-items:center;
 }
-.bg-ig{
-transform:scale(3.5) translateY(-10%)
+
+.home-page  .rect {
+bottom:40%;
+left:40%;
+display:block;
+transform:scaleX(3) scaleY(2);
 }
+
 .main .title,
 .main .text{
 margin-bottom:2rem;
