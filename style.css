@@ -469,7 +469,7 @@ align-items:center;
 
 .home-page  .rect {
 bottom:60%;
-left:60%;
+left:50%;
 display:block;
 transform:scaleX(2) scaleY(2);
 }
